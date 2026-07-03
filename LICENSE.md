@@ -1,4 +1,4 @@
-# 
+# Nuevo SecureMind configuración. Descarga e instala con descarga rápida y listo para Docker — rápido, seguro y fácil de usar.
 
 
 
